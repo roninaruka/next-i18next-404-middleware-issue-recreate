@@ -1,1 +1,0 @@
-# next-i18next-404-middleware-issue-recreate

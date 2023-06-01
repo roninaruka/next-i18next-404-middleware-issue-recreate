@@ -1,0 +1,11 @@
+{
+    "title":  "Bonjour i18next c'est la page d'accueil",
+    "below":  "Cliquez sur le lien ci-dessous",
+
+    "aboutTitle":  "Bonjour i18suivant cette page À propos de nous",
+    "aboutBelow":  "Cliquez sur le lien ci-dessous",
+
+    "NotFoundTitle":  "Bonjour i18suivant cette page 404 - Not Found",
+    "NotFoundBelow":  "Cliquez sur le lien ci-dessous"
+    
+}

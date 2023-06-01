@@ -1,0 +1,10 @@
+{
+    "title": "Hello i18next this is Home Page",
+    "below": "Click link below",
+
+    "aboutTitle": "Hello i18next this About us Page",
+    "aboutBelow": "Click link below",
+
+    "NotFoundTitle": "Hello i18next this 404 -Not Found Page",
+    "NotFoundBelow": "Click link below"
+}
