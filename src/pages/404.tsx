@@ -27,6 +27,7 @@ export default function Page404Component(props) {
         <>
             <h2>{t("NotFoundTitle")}</h2>
             <p>{t("NotFoundBelow")}</p>
+            <p>{t("level1.level2")}</p>
             <Link href="/">Home</Link><br />
             <Link href="/about-us">About us</Link><br />
             <Link href="/en">en</Link><br />
@@ -34,7 +35,6 @@ export default function Page404Component(props) {
         </>
     );
 }
-
 
 import { getStaticProps } from "./index";
 export { getStaticProps };

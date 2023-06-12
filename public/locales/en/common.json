@@ -6,5 +6,8 @@
     "aboutBelow": "Click link below",
 
     "NotFoundTitle": "Hello i18next this 404 -Not Found Page",
-    "NotFoundBelow": "Click link below"
+    "NotFoundBelow": "Click link below",
+    "level1": {
+        "level2": "this is working"
+    }
 }
