@@ -11,7 +11,7 @@ export default function Page404Component(props) {
             if (lastData) {
                 Object.keys(lastData._nextI18Next.initialI18nStore).forEach((l) => {
                     Object.keys(lastData._nextI18Next.initialI18nStore[l]).forEach((n) => {
-                        globali18n.addResources(l, n, lastData._nextI18Next.initialI18nStore[l][n])
+                        globali18n.addResourceBundle(l, n, lastData._nextI18Next.initialI18nStore[l][n])
                     })
                 })
                 globali18n.changeLanguage(lastData._nextI18Next.initialLocale)
